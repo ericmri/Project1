@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Applications/PyCharm.app/Contents/helpers/pydev/pydevd_comm.py", line 329, in OnRun
+    r = self.sock.recv(1024)
+error: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+  File "/Applications/PyCharm.app/Contents/helpers/pydev/pydevd_comm.py", line 329, in OnRun
+    r = self.sock.recv(1024)
+error: [Errno 9] Bad file descriptor
